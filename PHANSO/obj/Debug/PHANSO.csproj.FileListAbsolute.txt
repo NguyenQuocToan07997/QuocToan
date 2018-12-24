@@ -1,0 +1,10 @@
+D:\windows Application\Phan_So\PHANSO\PHANSO\bin\Debug\PHANSO.exe.config
+D:\windows Application\Phan_So\PHANSO\PHANSO\bin\Debug\PHANSO.exe
+D:\windows Application\Phan_So\PHANSO\PHANSO\bin\Debug\PHANSO.pdb
+D:\windows Application\Phan_So\PHANSO\PHANSO\obj\Debug\PHANSO.csprojAssemblyReference.cache
+D:\windows Application\Phan_So\PHANSO\PHANSO\obj\Debug\PHANSO.Form1.resources
+D:\windows Application\Phan_So\PHANSO\PHANSO\obj\Debug\PHANSO.Properties.Resources.resources
+D:\windows Application\Phan_So\PHANSO\PHANSO\obj\Debug\PHANSO.csproj.GenerateResource.cache
+D:\windows Application\Phan_So\PHANSO\PHANSO\obj\Debug\PHANSO.csproj.CoreCompileInputs.cache
+D:\windows Application\Phan_So\PHANSO\PHANSO\obj\Debug\PHANSO.exe
+D:\windows Application\Phan_So\PHANSO\PHANSO\obj\Debug\PHANSO.pdb
